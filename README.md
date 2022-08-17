@@ -41,5 +41,4 @@ Works on Machine Learning take several inputs from user such as buying price, ye
 #### Mohit Thapliyal  
 GitHub : [https://github.com/Mohit-Thapliyal](https://github.com/Mohit-Thapliyal)  
 LinkedIn : [https://www.linkedin.com/in/mohit-thapliyal-b20104146/](https://www.linkedin.com/in/mohit-thapliyal-b20104146/)  
-Instagram : [https://www.instagram.com/mohitthapliyal100/](https://www.instagram.com/mohitthapliyal100/)  
-Twitter : [https://twitter.com/MohitTh57881973](https://twitter.com/MohitTh57881973)
+Instagram : [https://www.instagram.com/mohitthapliyal100/](https://www.instagram.com/mohitthapliyal100/) 
